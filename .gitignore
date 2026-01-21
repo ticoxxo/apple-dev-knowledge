@@ -1,0 +1,20 @@
+# macOS
+.DS_Store
+. AppleDouble
+.LSOverride
+
+# Xcode
+*. xcodeproj
+*. xcworkspace
+! default.xcworkspace
+xcuserdata/
+*.xcuserstate
+
+# Swift Package Manager
+.build/
+Packages/
+*. swiftpm
+
+# Playgrounds
+timeline.xctimeline
+playground.xcworkspace
